@@ -1,0 +1,26 @@
+{
+  "artist" : [
+    { "name" : "John Potato",
+      "bio" : "Something relevant about John Potato.",
+      "projects" : [
+        "image1",
+        "image2"
+      ]
+    },
+    { "name" : "Peter Carrot",
+      "bio" : "Something relevant about William Carrot.",
+      "projects" : [
+        "artProject1",
+        "artProject2"
+      ]
+    },
+    { "name" : "Bob Onion",
+      "bio" : "Something relevant about Bob Onion.",
+      "projects" : [
+        "project1",
+        "project2",
+        "project3"
+      ]
+    }
+  ]
+}
