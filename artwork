@@ -1,0 +1,11 @@
+{
+  artwork: [
+    {
+      id: 1
+      name: "potato"
+    }, {
+      id: 2
+      name: "carrot"
+    }
+  ]
+}
